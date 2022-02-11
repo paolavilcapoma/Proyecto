@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lyva+XPrbM/e2lTvnFahClf0M6lmHDj7tRgW7EWzhe7HuwiJ6kYqjRkVZhtIuh2U9chsI0BuvtcQbxtHkOaIw==",
+  "dgSpecHash": "/WqZv/v55NWgJ7SrADDSwrduQIAa23hfPm97XLIx2WGXcS9AVPJFE4sd1BTiPq+SAIk69JJnmAxhL7pODjJOkg==",
   "success": true,
-  "projectFilePath": "D:\\0) Blazor\\a) Ejemplo 1\\a) Ejemplo 1.csproj",
+  "projectFilePath": "D:\\GIT\\a) Ejemplo 1\\a) Ejemplo 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.1\\microsoft.aspnetcore.spaservices.extensions.6.0.1.nupkg.sha512",
     "C:\\Users\\Maria\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
